@@ -13,8 +13,8 @@ st.write("La parte más compleja e importante de un combate es la desventaja, qu
 st.divider()
 #linea de titulo
 st.title("Salto")
-#linea de imagen
-st.image("salto.jpg")
+#linea de imagen junto a un subtitulo
+st.image("salto.jpg", caption="Little Mac saltando")
 #linea de division
 st.divider()
 #linea de escritura
@@ -64,4 +64,5 @@ Existen otras opciones de nicho como lo son el down air o usar el K.O pero son t
 st.divider()
 #Añadir un video para que el usuario pueda interactuar con el
 st.video("https://youtu.be/s5pmkY3Ff7Y?si=75J9DKBFNbol-hzY")
+
 
