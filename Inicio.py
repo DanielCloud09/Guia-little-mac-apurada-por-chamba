@@ -21,5 +21,6 @@ st.divider()
 st.write("""Little Mac es un personajes realmente extremo, muy solido en tierra firme pero con una desventaja realmente terrible al poseer malos aereos y una recuperación mediocre, por lo que cualquier persona que decida usarlo de Main va a tener que enfocarse en mantenerse lo más posible en el escenario,
 sera complicado pero con gran recompensa ya que Little Mac es uno de los personajes con mayor potential kill de todos, con ataques capaces a de matar a porcentajes realmente bajos y un buen jugador siempre sera capaz de volverse una amenaza importante.""")
 st.divider()
-st.audio("Mac.mp3", caption="Little Mac sonido mp3")
+st.audio("Mac.mp3")
+
 
