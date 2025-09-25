@@ -60,6 +60,8 @@ st.title("Conclusión")
 st.write(""" Para finiquitar esta sección dejare entonces el orden de como un buen Little Mac deberia volver al escenario; En el caso de recuperarse medio-alto el orden seria Air-Dodge, salto y Side-B,
 para recuperarse bajo el orden seria Air-dodge, salto, Side-B y Up B.
 Existen otras opciones de nicho como lo son el down air o usar el K.O pero son tecnicas que si bien puedne ayudar se utilizan en niveles altos y no ofrecen gran recompensa.""")
-
+#Dividir en secciones
 st.divider()
+#Añadir un video para que el usuario pueda interactuar con el
 st.video("https://youtu.be/s5pmkY3Ff7Y?si=75J9DKBFNbol-hzY")
+
