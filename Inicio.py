@@ -25,7 +25,8 @@ st.divider()
 #Agregar un audio interactuable para el usuario
 st.audio("Mac.mp3")
 #Escribir en la pagina
-st.write("Algunos sonidos de Little Mac")
+st.write("Algunos sonidos de Little Mac.")
+
 
 
 
